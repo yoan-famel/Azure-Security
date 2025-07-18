@@ -1,10 +1,12 @@
 ![xdr-banner](./img/xdr-ban.jpg)
 
-# Microsoft-Defender-XDR
-Personal notes, examples and insights as I go through the SC-200: MS SecOps Analyst content.
+# Azure Security
+Personal notes, walkthrough and insights for the SC-200: MS SecOps Analyst content.
 
 
 ## Topics covered
+
+# Manage a security operations environment
 
 ### Configure settings in Microsoft Defender XDR
   * Configure alert and vulnerability notification rules
@@ -21,4 +23,4 @@ Personal notes, examples and insights as I go through the SC-200: MS SecOps Anal
   * Mitigate risk by using Exposure Management in Microsoft Defender XDR
 
 ### Design and configure a Microsoft Sentinel workspace
-  * [...]
+  * [...more to come]
