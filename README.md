@@ -50,7 +50,7 @@ Personal notes, walkthrough and insights for the SC-200: MS SecOps Analyst conte
  *	Manage alerts, including tuning, suppression, and correlation
  *	Configure deception rules in Microsoft Defender XDR
 
-###Configure detections in Microsoft Sentinel
+### Configure detections in Microsoft Sentinel
  *	Classify and analyze data by using entities
  *	Configure and manage analytics rules
  *	Query Microsoft Sentinel data by using ASIM parsers
