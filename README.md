@@ -1,4 +1,4 @@
-![xdr-banner](./img/xdr-ban.jpg)
+![azure-security](./img/azure-security-banner.jpg)
 
 # Azure Security
 Personal notes, walkthrough and insights for the SC-200: MS SecOps Analyst content.
