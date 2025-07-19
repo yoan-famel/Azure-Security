@@ -9,7 +9,7 @@ Personal notes, walkthrough and insights for the SC-200: MS SecOps Analyst conte
 # Manage a security operations environment
 
 ### Configure settings in Microsoft Defender XDR
-  * [Configure alert and vulnerability notification rules](./Configure%20alert%20and%20vulnerability%20notification%20rules.md)
+  * [Configure alert and vulnerability notification rules](./Manage-a-security-operations-environment/Configure%20alert%20and%20vulnerability%20notification%20rules.md)
   * Configure Microsoft Defender for Endpoint advanced features
   * Configure endpoint rules settings
   * Manage automated investigation and response capabilities in Microsoft Defender XDR
