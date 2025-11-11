@@ -1,7 +1,7 @@
 ![azure-security-banner](./img/azure-security-banner.jpg)
 
 # Azure Security
-Personal notes, walkthrough and insights for the SC-200: MS SecOps Analyst content.
+(Work in progress) Personal notes, walkthrough and insights as I go through the SC-200 MS SecOps Analyst content
 
 
 ## Topics covered
